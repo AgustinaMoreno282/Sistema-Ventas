@@ -35,18 +35,6 @@ Incluye patrones de diseño y principios SOLID para asegurar escalabilidad y man
 
 ---
 
-### 🧱 Principios SOLID Aplicados
-
-| Principio | Aplicación                                                                     |
-| --------- | ------------------------------------------------------------------------------ |
-| **S**     | Cada clase tiene una única responsabilidad clara.                              |
-| **O**     | El sistema es fácilmente extensible sin modificar código existente.            |
-| **L**     | Preparado para subclases sin romper funcionalidad (ej. productos específicos). |
-| **I**     | Clases pequeñas y enfocadas, sin métodos innecesarios.                         |
-| **D**     | Módulos de alto nivel no dependen de módulos de bajo nivel directamente.       |
-
----
-
 ### 📁 Estructura del Proyecto
 
 ```
