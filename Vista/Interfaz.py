@@ -6,7 +6,7 @@ from Modelo.Fabrica_producto import ProductoFactory
 class InterfazApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("SISVENT - Control de Stock y Ventas")
+        self.root.title("SISTEMA DE VENTAS - Control de Stock y Ventas")
         self.root.geometry("400x400")
 
         self.gestor = GestorSistema()

@@ -88,6 +88,6 @@ No requiere librerías externas. Todo el código está contenido localmente.
 ![Venta](./img/realizarVenta.png)
 
 #### 🖼️ Historial de ventas
-![Historial](./img/HistorialVentas.pngs)
+![Historial](./img/HistorialVentas.png)
 
 ---
