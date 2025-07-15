@@ -7,7 +7,7 @@ Incluye patrones de diseño y principios SOLID para asegurar escalabilidad y man
 
 ### 🛠️ Tecnologías Usadas
 
-* Python 3.10+
+* Python
 * Tkinter (GUI)
 * POO (Programación Orientada a Objetos)
 * Principios SOLID
@@ -71,7 +71,7 @@ sistema_ventas/
 
 ### ▶️ Cómo Ejecutar
 
-1. Asegurate de tener Python 3.10 o superior instalado.
+1. Asegurate de tener Python instalado.
 2. Cloná el repositorio o descargá el proyecto.
 3. Ejecutá desde la raíz:
 
