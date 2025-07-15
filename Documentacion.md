@@ -74,7 +74,7 @@ No requiere librerías externas. Todo el código está contenido localmente.
 
 ### ✅ 7. Capturas de pantalla
 
-(Insertar capturas de: menú principal, alta de producto, lista de productos, venta realizada, historial de ventas)
+(Inserto capturas de: menú principal, alta de producto, lista de productos, venta realizada, historial de ventas)
 #### 🖼️ Menú principal
 ![Menú principal](./img/MenuPrincipal.png)
 
